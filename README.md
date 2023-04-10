@@ -1,1 +1,1 @@
-# Analysis-of-global-terrorism
+# Exploratory Data Analysis
